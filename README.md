@@ -27,4 +27,6 @@ Cushion is a command-line client for [Custodian](http://github.com/jgorset/custo
       Page outs:                 2 MB
 
     Logged in users:
-      jgorset, espenhogbakk, timkurvers
+      jgorset,
+      espenhogbakk,
+      timkurvers
