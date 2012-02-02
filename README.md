@@ -6,7 +6,7 @@ Cushion is a command-line client for [Custodian](http://github.com/jgorset/custo
 
     $ cushion http://domain.tld:5100
     http://domain.tld
-    —————————————————————————————————
+    ---------------------------------
 
     CPU Usage
       User:                    13.63%
